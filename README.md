@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamkyleh
 - 👀 I’m interested in machine learning and website design
-- 🌱 I’m currently learning frnatend development and bakend development
+- 🌱 I’m currently learning fronttend development and bakend development
 - 💞️ I’m looking to collaborate on website design.
   
 
